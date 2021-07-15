@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="" />
+    <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/LongestDisSeq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/OneNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/y.pub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PSWOc5xLpQs5zAlBdR7ezXvlU5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -25,7 +41,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -48,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DifferenceMatrix">
+  <component name="RunManager" selected="Python.LongestDisSeq">
     <configuration name="DifferenceMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HighPrecisionDiv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LongestDisSeq" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +122,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/HighPrecisionDiv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/LongestDisSeq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrefixSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +166,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/PrefixSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/OneNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LongestDisSeq" />
+        <item itemvalue="Python.OneNumber" />
         <item itemvalue="Python.DifferenceMatrix" />
         <item itemvalue="Python.DifferenceNum" />
         <item itemvalue="Python.MatrixPrefixSum" />
-        <item itemvalue="Python.PrefixSum" />
-        <item itemvalue="Python.HighPrecisionDiv" />
       </list>
     </recent_temporary>
   </component>
@@ -236,11 +252,29 @@
       <workItem from="1626007956124" duration="6861000" />
       <workItem from="1626065196968" duration="12639000" />
       <workItem from="1626184171448" duration="1832000" />
+      <workItem from="1626303418846" duration="3638000" />
+      <workItem from="1626307339439" duration="130000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leet_code$MajorityElement.coverage" NAME="MajorityElement Coverage Results" MODIFIED="1623641312867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
@@ -392,6 +426,7 @@
     <SUITE FILE_PATH="coverage/leet_code$MyQueue.coverage" NAME="MyQueue Coverage Results" MODIFIED="1608213199897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure" />
     <SUITE FILE_PATH="coverage/leet_code$CopyRandomList.coverage" NAME="CopyRandomList Coverage Results" MODIFIED="1612737677327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
     <SUITE FILE_PATH="coverage/leet_code$PondSizes.coverage" NAME="PondSizes Coverage Results" MODIFIED="1613953409808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Stack" />
+    <SUITE FILE_PATH="coverage/leet_code$LongestDisSeq.coverage" NAME="LongestDisSeq Coverage Results" MODIFIED="1626306668870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$SortColors.coverage" NAME="SortColors Coverage Results" MODIFIED="1612834511239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/array" />
     <SUITE FILE_PATH="coverage/leet_code$FindMin.coverage" NAME="FindMin Coverage Results" MODIFIED="1612940763816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$FindDuplicate.coverage" NAME="FindDuplicate Coverage Results" MODIFIED="1612950258153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
@@ -425,6 +460,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Change.coverage" NAME="Change Coverage Results" MODIFIED="1613287707084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$ArrayPairSum.coverage" NAME="ArrayPairSum Coverage Results" MODIFIED="1613440879099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$Find132pattern.coverage" NAME="Find132pattern Coverage Results" MODIFIED="1616546062409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
+    <SUITE FILE_PATH="coverage/leet_code$OneNumber.coverage" NAME="OneNumber Coverage Results" MODIFIED="1626305641424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$ThreeSumClosest.coverage" NAME="ThreeSumClosest Coverage Results" MODIFIED="1623384097320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Array_and_string" />
     <SUITE FILE_PATH="coverage/leet_code$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1625477649462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
   </component>
