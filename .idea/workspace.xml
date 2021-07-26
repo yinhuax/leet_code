@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/LongestDisSeq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/OneNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y.pub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/IntervalMerge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/IntervalSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_02/LinkedListByList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_02/LinkedListByPointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_02/Query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_02/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/acwing_study/base_02/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LongestDisSeq">
-    <configuration name="DifferenceMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LinkedListByList">
+    <configuration name="IntervalMerge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/DifferenceMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/IntervalMerge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DifferenceNum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="IntervalSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/DifferenceNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/IntervalSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LongestDisSeq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LinkedListByList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/acwing_study/base_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/LongestDisSeq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_02/LinkedListByList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MatrixPrefixSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Query" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/acwing_study/base_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/MatrixPrefixSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_02/Query.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,12 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/acwing_study/base_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort/OneNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/acwing_study/base_02/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LongestDisSeq" />
-        <item itemvalue="Python.OneNumber" />
-        <item itemvalue="Python.DifferenceMatrix" />
-        <item itemvalue="Python.DifferenceNum" />
-        <item itemvalue="Python.MatrixPrefixSum" />
+        <item itemvalue="Python.LinkedListByList" />
+        <item itemvalue="Python.Query" />
+        <item itemvalue="Python.Stack" />
+        <item itemvalue="Python.IntervalMerge" />
+        <item itemvalue="Python.IntervalSum" />
       </list>
     </recent_temporary>
   </component>
@@ -253,8 +254,23 @@
       <workItem from="1626065196968" duration="12639000" />
       <workItem from="1626184171448" duration="1832000" />
       <workItem from="1626303418846" duration="3638000" />
-      <workItem from="1626307339439" duration="130000" />
+      <workItem from="1626307339439" duration="715000" />
+      <workItem from="1626321479830" duration="1257000" />
+      <workItem from="1626356373751" duration="596000" />
+      <workItem from="1626575779714" duration="5515000" />
+      <workItem from="1626756181817" duration="3257000" />
+      <workItem from="1626919600275" duration="1194000" />
+      <workItem from="1627020267194" duration="3723000" />
+      <workItem from="1627268523388" duration="14293000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(代码提交): &#10;&#10;acwing 2个模板完成">
+      <created>1626307738396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626307738396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat(代码提交): &#10;&#10;acwing 2个模板完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(代码提交): &#10;&#10;acwing 2个模板完成" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leet_code$MajorityElement.coverage" NAME="MajorityElement Coverage Results" MODIFIED="1623641312867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
@@ -324,6 +342,7 @@
     <SUITE FILE_PATH="coverage/leet_code$LongestValidParentheses.coverage" NAME="LongestValidParentheses Coverage Results" MODIFIED="1613289613971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$LargestSumOfAverages.coverage" NAME="LargestSumOfAverages Coverage Results" MODIFIED="1613348067228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$MaximalSquare.coverage" NAME="MaximalSquare Coverage Results" MODIFIED="1613303951811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
+    <SUITE FILE_PATH="coverage/leet_code$IntervalSum.coverage" NAME="IntervalSum Coverage Results" MODIFIED="1626579208143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$PlusOne.coverage" NAME="PlusOne Coverage Results" MODIFIED="1623396181570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Array_and_string" />
     <SUITE FILE_PATH="coverage/leet_code$CheckRecord.coverage" NAME="CheckRecord Coverage Results" MODIFIED="1613359395107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$PrefixSum.coverage" NAME="PrefixSum Coverage Results" MODIFIED="1626066293345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
@@ -391,6 +410,7 @@
     <SUITE FILE_PATH="coverage/leet_code$RemoveElements.coverage" NAME="RemoveElements Coverage Results" MODIFIED="1612601887762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
     <SUITE FILE_PATH="coverage/leet_code$Heap_sort.coverage" NAME="Heap_sort Coverage Results" MODIFIED="1612867691759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
     <SUITE FILE_PATH="coverage/leet_code$MaxSlidingWindow.coverage" NAME="MaxSlidingWindow Coverage Results" MODIFIED="1614522485415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/array" />
+    <SUITE FILE_PATH="coverage/leet_code$IntervalMerge.coverage" NAME="IntervalMerge Coverage Results" MODIFIED="1626583655692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1614959286008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$StrStr.coverage" NAME="StrStr Coverage Results" MODIFIED="1611502906006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Array_and_string" />
     <SUITE FILE_PATH="coverage/leet_code$MinimumTotal.coverage" NAME="MinimumTotal Coverage Results" MODIFIED="1613140610446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
@@ -410,6 +430,7 @@
     <SUITE FILE_PATH="coverage/leet_code$IsMonotonic.coverage" NAME="IsMonotonic Coverage Results" MODIFIED="1614510100356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$MyLinkedList.coverage" NAME="MyLinkedList Coverage Results" MODIFIED="1612539633004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
     <SUITE FILE_PATH="coverage/leet_code$MatrixBlockSum.coverage" NAME="MatrixBlockSum Coverage Results" MODIFIED="1616974575987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
+    <SUITE FILE_PATH="coverage/leet_code$Query.coverage" NAME="Query Coverage Results" MODIFIED="1627281266283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_02" />
     <SUITE FILE_PATH="coverage/leet_code$FindMedianSortedArrays.coverage" NAME="FindMedianSortedArrays Coverage Results" MODIFIED="1612962280518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$ReverseVowels.coverage" NAME="ReverseVowels Coverage Results" MODIFIED="1612910832637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/array" />
     <SUITE FILE_PATH="coverage/leet_code$Rob2.coverage" NAME="Rob2 Coverage Results" MODIFIED="1613181966100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
@@ -425,6 +446,7 @@
     <SUITE FILE_PATH="coverage/leet_code$MaxSatisfied.coverage" NAME="MaxSatisfied Coverage Results" MODIFIED="1614089911226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$MyQueue.coverage" NAME="MyQueue Coverage Results" MODIFIED="1608213199897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure" />
     <SUITE FILE_PATH="coverage/leet_code$CopyRandomList.coverage" NAME="CopyRandomList Coverage Results" MODIFIED="1612737677327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
+    <SUITE FILE_PATH="coverage/leet_code$LinkedListByList.coverage" NAME="LinkedListByList Coverage Results" MODIFIED="1627294972434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_02" />
     <SUITE FILE_PATH="coverage/leet_code$PondSizes.coverage" NAME="PondSizes Coverage Results" MODIFIED="1613953409808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Stack" />
     <SUITE FILE_PATH="coverage/leet_code$LongestDisSeq.coverage" NAME="LongestDisSeq Coverage Results" MODIFIED="1626306668870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$SortColors.coverage" NAME="SortColors Coverage Results" MODIFIED="1612834511239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/array" />
@@ -455,6 +477,7 @@
     <SUITE FILE_PATH="coverage/leet_code$GetRow.coverage" NAME="GetRow Coverage Results" MODIFIED="1613087265332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$CanCross.coverage" NAME="CanCross Coverage Results" MODIFIED="1613311374452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$AddTwoNumbers.coverage" NAME="AddTwoNumbers Coverage Results" MODIFIED="1612652036668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
+    <SUITE FILE_PATH="coverage/leet_code$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1627270500434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_02" />
     <SUITE FILE_PATH="coverage/leet_code$MaxProduct.coverage" NAME="MaxProduct Coverage Results" MODIFIED="1613175186432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$MergeTwoLists.coverage" NAME="MergeTwoLists Coverage Results" MODIFIED="1612650067498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
     <SUITE FILE_PATH="coverage/leet_code$Change.coverage" NAME="Change Coverage Results" MODIFIED="1613287707084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
