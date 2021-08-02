@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/ArrangeCoins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/CountNodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/FindNthDigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/JudgeSquareSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/TriangleNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/PathInZigZagTree.py" afterDir="false" />
+    <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="feat: &#10;&#10;每日一刷">
+      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/CheckSubarraySum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/SearchMatrix2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/binary_array/SubarraySum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/FindPairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/NetworkDelayTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/TitleToNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/VerticalTraversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TriangleNumber">
-    <configuration name="ArrangeCoins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SearchMatrix2">
+    <configuration name="CheckSubarraySum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/ArrangeCoins.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/CheckSubarraySum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,51 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindNthDigit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leet_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/binary_array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/FindNthDigit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="JudgeSquareSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leet_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/binary_array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/JudgeSquareSum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PathInZigZagTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FindPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/daily_topic/PathInZigZagTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/daily_topic/FindPairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TriangleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SearchMatrix2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +123,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/TriangleNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/SearchMatrix2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SubarraySum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leet_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/binary_array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/binary_array/SubarraySum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TitleToNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leet_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/daily_topic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/daily_topic/TitleToNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TriangleNumber" />
-        <item itemvalue="Python.FindNthDigit" />
-        <item itemvalue="Python.ArrangeCoins" />
-        <item itemvalue="Python.JudgeSquareSum" />
-        <item itemvalue="Python.PathInZigZagTree" />
+        <item itemvalue="Python.SearchMatrix2" />
+        <item itemvalue="Python.FindPairs" />
+        <item itemvalue="Python.SubarraySum" />
+        <item itemvalue="Python.CheckSubarraySum" />
+        <item itemvalue="Python.TitleToNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +266,11 @@
       <workItem from="1627423992217" duration="3010000" />
       <workItem from="1627454779944" duration="1757000" />
       <workItem from="1627484827545" duration="721000" />
-      <workItem from="1627529071552" duration="13581000" />
+      <workItem from="1627529071552" duration="13739000" />
+      <workItem from="1627635153204" duration="586000" />
+      <workItem from="1627636018410" duration="5484000" />
+      <workItem from="1627710652458" duration="2615000" />
+      <workItem from="1627856919849" duration="5949000" />
     </task>
     <task id="LOCAL-00001" summary="feat(代码提交): &#10;&#10;acwing 2个模板完成">
       <created>1626307738396</created>
@@ -295,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627432940478</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: &#10;&#10;每日一刷">
+      <created>1627555777730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627555777730</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +332,8 @@
     <MESSAGE value="feat: &#10;&#10;链表、栈" />
     <MESSAGE value="feat: &#10;&#10;双向链表" />
     <MESSAGE value="feat: &#10;&#10;每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;每日一题" />
+    <MESSAGE value="feat: &#10;&#10;每日一刷" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;每日一刷" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leet_code$NumMatrix.coverage" NAME="NumMatrix Coverage Results" MODIFIED="1614700969370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
@@ -355,6 +368,8 @@
     <SUITE FILE_PATH="coverage/leet_code$Subsets.coverage" NAME="Subsets Coverage Results" MODIFIED="1623406878892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Array_and_string" />
     <SUITE FILE_PATH="coverage/leet_code$Jump2.coverage" NAME="Jump2 Coverage Results" MODIFIED="1613273448975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$FindRestaurant.coverage" NAME="FindRestaurant Coverage Results" MODIFIED="1612274848313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/hash_table" />
+    <SUITE FILE_PATH="coverage/leet_code$SearchMatrix2.coverage" NAME="SearchMatrix2 Coverage Results" MODIFIED="1627862896469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
+    <SUITE FILE_PATH="coverage/leet_code$CheckSubarraySum.coverage" NAME="CheckSubarraySum Coverage Results" MODIFIED="1627641037047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$Ali.coverage" NAME="Ali Coverage Results" MODIFIED="1613484130866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$MaxPoints.coverage" NAME="MaxPoints Coverage Results" MODIFIED="1613030397165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Array_and_string" />
     <SUITE FILE_PATH="coverage/leet_code$Transpose.coverage" NAME="Transpose Coverage Results" MODIFIED="1614211106869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
@@ -453,6 +468,7 @@
     <SUITE FILE_PATH="coverage/leet_code$HighPrecisionSub.coverage" NAME="HighPrecisionSub Coverage Results" MODIFIED="1625654333161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$MatrixPrefixSum.coverage" NAME="MatrixPrefixSum Coverage Results" MODIFIED="1626068213224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$OpenLock.coverage" NAME="OpenLock Coverage Results" MODIFIED="1608221537106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Queue" />
+    <SUITE FILE_PATH="coverage/leet_code$SubarraySum.coverage" NAME="SubarraySum Coverage Results" MODIFIED="1627642507773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$Select_sort.coverage" NAME="Select_sort Coverage Results" MODIFIED="1612853911654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
     <SUITE FILE_PATH="coverage/leet_code$FindRedundantConnection.coverage" NAME="FindRedundantConnection Coverage Results" MODIFIED="1613690666519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/union_find" />
     <SUITE FILE_PATH="coverage/leet_code$HIndex.coverage" NAME="HIndex Coverage Results" MODIFIED="1614960828636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
@@ -471,6 +487,7 @@
     <SUITE FILE_PATH="coverage/leet_code$UniquePaths.coverage" NAME="UniquePaths Coverage Results" MODIFIED="1613283810023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/dp_exercise" />
     <SUITE FILE_PATH="coverage/leet_code$FlipAndInvertImage.coverage" NAME="FlipAndInvertImage Coverage Results" MODIFIED="1614124966205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$ShortestSeq.coverage" NAME="ShortestSeq Coverage Results" MODIFIED="1614551646899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/array" />
+    <SUITE FILE_PATH="coverage/leet_code$TitleToNumber.coverage" NAME="TitleToNumber Coverage Results" MODIFIED="1627636233415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$MatrixReshape.coverage" NAME="MatrixReshape Coverage Results" MODIFIED="1613546737325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$ContainsNearbyDuplicate.coverage" NAME="ContainsNearbyDuplicate Coverage Results" MODIFIED="1613031992755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Array_and_string" />
     <SUITE FILE_PATH="coverage/leet_code$CalcEquation.coverage" NAME="CalcEquation Coverage Results" MODIFIED="1613484966910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/array" />
@@ -488,6 +505,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Insert_sort.coverage" NAME="Insert_sort Coverage Results" MODIFIED="1612855000749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
     <SUITE FILE_PATH="coverage/leet_code$IsMonotonic.coverage" NAME="IsMonotonic Coverage Results" MODIFIED="1614510100356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$MyLinkedList.coverage" NAME="MyLinkedList Coverage Results" MODIFIED="1612539633004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
+    <SUITE FILE_PATH="coverage/leet_code$FindPairs.coverage" NAME="FindPairs Coverage Results" MODIFIED="1627860708250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$IsValid.coverage" NAME="IsValid Coverage Results" MODIFIED="1608308489672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/Stack" />
     <SUITE FILE_PATH="coverage/leet_code$SpiralOrder.coverage" NAME="SpiralOrder Coverage Results" MODIFIED="1623648176569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$Generate.coverage" NAME="Generate Coverage Results" MODIFIED="1611999084530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/double_pointer" />
