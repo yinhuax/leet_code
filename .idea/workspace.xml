@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/Calculate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/FindTargetSumWays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/MedianFinder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/PickIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/SumOddLengthSubarrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +273,7 @@
       <workItem from="1629948823309" duration="10409000" />
       <workItem from="1630123812377" duration="17601000" />
       <workItem from="1630148033588" duration="597000" />
-      <workItem from="1630168245085" duration="11206000" />
+      <workItem from="1630168245085" duration="11501000" />
     </task>
     <task id="LOCAL-00001" summary="feat(代码提交): &#10;&#10;acwing 2个模板完成">
       <created>1626307738396</created>
@@ -324,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630141561789</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: &#10;&#10;每日一刷">
+      <created>1630279996533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630279996533</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
