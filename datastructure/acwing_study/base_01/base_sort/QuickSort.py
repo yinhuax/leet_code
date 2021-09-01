@@ -14,12 +14,12 @@ class QuickSort(object):
     def quick_sort(self, q, l, r):
         if l >= r:
             return
-        x = arr[(l + r) // 2]
+        x = arr[r]
         i = l
         j = r
         while i < j:
-            while arr[i] < x: i += 1
-            while arr[j] > x: j -= 1
+            while i < j and arr[j] > x: j -= 1
+            while i < j and arr[i] <= x: i += 1
 
             if i < j:
                 # 交换位置
@@ -30,8 +30,8 @@ class QuickSort(object):
         # self.quick_sort(arr, l, i - 1)
         # self.quick_sort(arr, i, r)
 
-        self.quick_sort(arr, l, j)
-        self.quick_sort(arr, j + 1, r)
+        self.quick_sort(arr, l, j - 1)
+        self.quick_sort(arr, j, r)
         # if l >= r:
         #     return
         # x = q[(l + r) // 2]
@@ -53,6 +53,6 @@ class QuickSort(object):
 
 
 if __name__ == '__main__':
-    arr = [1, 3, 2, 2, 5, 4, 6]
+    arr = [-1, 2, -8, -10]
     QuickSort().quick_sort(arr, 0, len(arr) - 1)
     print(arr)
