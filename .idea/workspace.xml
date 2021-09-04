@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/IsValid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/Multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/MajorityElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/binary_tree/RecoverFromPreorder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +60,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Multiply">
-    <configuration name="MaxSlidingWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MajorityElement">
+    <configuration name="MajorityElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +74,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview_preparation/tencent/MaxSlidingWindow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview_preparation/tencent/MajorityElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MajorityElement" />
         <item itemvalue="Python.Multiply" />
         <item itemvalue="Python.SmallestK" />
         <item itemvalue="Python.UniquePathsWithObstacles" />
         <item itemvalue="Python.QuickSort" />
-        <item itemvalue="Python.MaxSlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +288,7 @@
       <workItem from="1630575632714" duration="1768000" />
       <workItem from="1630649789027" duration="1783000" />
       <workItem from="1630656682763" duration="9409000" />
-      <workItem from="1630716248345" duration="1798000" />
+      <workItem from="1630716248345" duration="4932000" />
     </task>
     <task id="LOCAL-00001" summary="feat(代码提交): &#10;&#10;acwing 2个模板完成">
       <created>1626307738396</created>
@@ -367,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630664219942</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: &#10;&#10;每日一刷">
+      <created>1630743225912</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630743225912</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +522,7 @@
     <SUITE FILE_PATH="coverage/leet_code$MaxHeap.coverage" NAME="MaxHeap Coverage Results" MODIFIED="1630484951840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
     <SUITE FILE_PATH="coverage/leet_code$MinHeap.coverage" NAME="MinHeap Coverage Results" MODIFIED="1630486540976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
     <SUITE FILE_PATH="coverage/leet_code$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1625477649462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
-    <SUITE FILE_PATH="coverage/leet_code$MajorityElement.coverage" NAME="MajorityElement Coverage Results" MODIFIED="1623641312867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
+    <SUITE FILE_PATH="coverage/leet_code$MajorityElement.coverage" NAME="MajorityElement Coverage Results" MODIFIED="1630744528052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview_preparation/tencent" />
     <SUITE FILE_PATH="coverage/leet_code$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1612946883962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
     <SUITE FILE_PATH="coverage/leet_code$InsertIntoBST.coverage" NAME="InsertIntoBST Coverage Results" MODIFIED="1613040173333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_search_tree" />
     <SUITE FILE_PATH="coverage/leet_code$FindCircleNum.coverage" NAME="FindCircleNum Coverage Results" MODIFIED="1613606307616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/union_find" />
