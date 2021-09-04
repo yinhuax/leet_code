@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e694450-79c8-4e93-95f1-8e98ea3b6eee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/UniquePathsWithObstacles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/GetKthFromEnd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/daily_topic/SmallestK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/IsValid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview_preparation/tencent/Multiply.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,12 +40,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\leet_code\datastructure\Queue" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\leet_code\datastructure\acwing_study\base_01\base_sort" />
       <recent name="E:\leet_code\datastructure\union_find" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\leet_code\datastructure\Queue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SmallestK">
+  <component name="RunManager" selected="Python.Multiply">
     <configuration name="MaxSlidingWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MinHeap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Multiply" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +91,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure/my_sorted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview_preparation/tencent" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/my_sorted/MinHeap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview_preparation/tencent/Multiply.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Multiply" />
         <item itemvalue="Python.SmallestK" />
         <item itemvalue="Python.UniquePathsWithObstacles" />
         <item itemvalue="Python.QuickSort" />
         <item itemvalue="Python.MaxSlidingWindow" />
-        <item itemvalue="Python.MinHeap" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +287,8 @@
       <workItem from="1630534707859" duration="1194000" />
       <workItem from="1630575632714" duration="1768000" />
       <workItem from="1630649789027" duration="1783000" />
-      <workItem from="1630656682763" duration="6179000" />
+      <workItem from="1630656682763" duration="9409000" />
+      <workItem from="1630716248345" duration="1798000" />
     </task>
     <task id="LOCAL-00001" summary="feat(代码提交): &#10;&#10;acwing 2个模板完成">
       <created>1626307738396</created>
@@ -360,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630499752877</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: &#10;&#10;每日一刷">
+      <created>1630664219942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630664219942</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,6 +510,7 @@
     <SUITE FILE_PATH="coverage/leet_code$MergeTwoLists.coverage" NAME="MergeTwoLists Coverage Results" MODIFIED="1612650067498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/linked_list" />
     <SUITE FILE_PATH="coverage/leet_code$ArrayPairSum.coverage" NAME="ArrayPairSum Coverage Results" MODIFIED="1613440879099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/daily_topic" />
     <SUITE FILE_PATH="coverage/leet_code$FindNthDigit.coverage" NAME="FindNthDigit Coverage Results" MODIFIED="1627554163030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/binary_array" />
+    <SUITE FILE_PATH="coverage/leet_code$Multiply.coverage" NAME="Multiply Coverage Results" MODIFIED="1630667087731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview_preparation/tencent" />
     <SUITE FILE_PATH="coverage/leet_code$OneNumber.coverage" NAME="OneNumber Coverage Results" MODIFIED="1626305641424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/acwing_study/base_01/base_sort" />
     <SUITE FILE_PATH="coverage/leet_code$MaxHeap.coverage" NAME="MaxHeap Coverage Results" MODIFIED="1630484951840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
     <SUITE FILE_PATH="coverage/leet_code$MinHeap.coverage" NAME="MinHeap Coverage Results" MODIFIED="1630486540976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure/my_sorted" />
